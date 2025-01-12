@@ -13,3 +13,5 @@ wget https://raw.githubusercontent.com/HiroMox/N3/refs/heads/main/n3.sh && chmod
 wget https://raw.githubusercontent.com/HiroMox/N3/refs/heads/main/n3cn.sh && chmod +x n3cn.sh && sudo ./n3cn.sh
 
 请完整复制指令
+
+推荐使用Ubuntu20.XX或以上系统
