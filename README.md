@@ -4,9 +4,12 @@
 大陆地区有大陆地区特供版，其他海外/境外地区请使用非大陆版，请不要使用错了，否者无法拉取镜像
 
 非大陆地区版
+
 wget https://raw.githubusercontent.com/HiroMox/N3/refs/heads/main/n3.sh && chmod +x n3.sh && sudo ./n3.sh
 
+
 大陆地区特供版
+
 wget https://raw.githubusercontent.com/HiroMox/N3/refs/heads/main/n3cn.sh && chmod +x n3cn.sh && sudo ./n3cn.sh
 
 请完整复制指令
