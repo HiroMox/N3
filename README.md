@@ -2,6 +2,9 @@
 
 请确保在root模式下执行一键脚本，如果你是小白，分别先执行下面2条指令后再使用一键脚本以防万一
 
+这是我的邀请链接，可以支持下
+https://account.network3.ai/register_page?rc=efc2ac1c
+
 ## 1.获取管理员权限
 
 
